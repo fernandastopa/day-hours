@@ -1,0 +1,37 @@
+body {
+    background: rgb(80, 150, 255);
+    font: normal 100% arial;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+
+    background: white;
+    border-radius: 15px;
+    padding: 5%;
+    width: 50%;
+    margin: auto; /* centraliza no meio da tela */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.329); /*5px de deslocamento lateral, 5px de deslocamento vertical, 10px de espalhamento */
+}
+
+img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+div {
+    text-align: center;
+    padding: 2%;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    
+}
